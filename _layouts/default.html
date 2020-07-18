@@ -18,19 +18,18 @@
 
       <header>
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+        <p style="text-align: right">{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
 
       <div id="banner">
         <span id="logo"></span>
 
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On Asset Store</strong></a>
+        <a href="{{ site.asset_store.profile_url }}" class="button fork"><strong>View On Asset Store</strong></a>
         {% if site.show_downloads %}
           <div class="downloads">
-            <span>Downloads:</span>
+            <span>Asset:</span>
             <ul>
-              <li><a href="{{ site.github.zip_url }}" class="button">Drag N Drop 3D</a></li>
-              <li><a href="{{ site.github.tar_url }}" class="button">TAR</a></li>
+              <li><a href="{{ site.asset_store.drag_n_drop_url }}" class="button">Drag N Drop 3D</a></li>
             </ul>
           </div>
         {% endif %}
