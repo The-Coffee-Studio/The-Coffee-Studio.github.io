@@ -1,0 +1,8 @@
+title: The Coffee Studio
+description: Make simple things joyful
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
