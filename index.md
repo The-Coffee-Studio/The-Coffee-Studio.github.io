@@ -1,4 +1,4 @@
-# About The Coffee House Studio
+# The Coffee House Studio
 
 # Unity Asset Store
 ### Drag N Drop 3D
@@ -20,7 +20,6 @@ DragNDrops:  A List contains drag and drop detail.
 Source: Transform in UI which the drag item will start from.
 Destination: Transform in World space which the drag item will end at.
 Moving prefab: Prefab of the item which is shown while item is being dragged.
-
 #### Credit
 Road roller model made by [Poly grunt](https://assetstore.unity.com/publishers/47845) . Get it from [here](https://assetstore.unity.com/packages/3d/vehicles/land/polygrunt-construction-vehicles-168884#content)
 
