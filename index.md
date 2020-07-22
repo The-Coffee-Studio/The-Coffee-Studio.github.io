@@ -4,11 +4,11 @@
 ### Drag N Drop 3D
 #### Introduction
 Drag N Drop 3D aims to provide unity developer with a simple and easy way to create a drag and drop functionality from UI-space to a predefined world-space destination in 3D environment. Feature:
-- Configurable Distance:The distance between dragging object and destination  in world space which is considered as close enough to drop the item.
-- Auto Move Back: Move the dragging object back when the distance to target larger than the configured distance
-- Identical Rotation: Dragging object is in 3D and have identical rotation as the destination object while the destination object is rotate.
-- Work When Rotate: Work even when the destination object is rotating.
-- Easy to Configure: Distance and target, source list is configurable through the editor
+* **Configurable Distance**:The distance between dragging object and destination  in world space which is considered as close enough to drop the item.
+* **Auto Move Back**: Move the dragging object back when the distance to target larger than the configured distance
+* **Identical Rotation**: Dragging object is in 3D and have identical rotation as the destination object while the destination object is rotate.
+* **Work When Rotate**: Work even when the destination object is rotating.
+* **Easy to Configure**: Distance and target, source list is configurable through the editor
 #### User Guide
 Create a DragNDropConfig game object and then add DragNDropConfig component to the the game object.
 ![DragNDropConfig](https://user-images.githubusercontent.com/5996087/88127628-57007180-cbfe-11ea-8ac9-bbf6d0cfac98.png)
