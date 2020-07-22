@@ -3,6 +3,9 @@ description: Make simple things joyful
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-leap-day
-
+site:
+  asset_store:
+    drag_n_drop_url: https://assetstore.unity.com/packages/slug/174807
+    profile_url: https://assetstore.unity.com/publishers/49153
 gems:
   - jekyll-mentions
