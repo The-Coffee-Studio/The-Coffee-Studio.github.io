@@ -1,4 +1,4 @@
-# The Coffee House Studio
+# The Coffee Studio
 The coffee studio is a small studio created by a coffee addicter who love to make small things joyful. 
 
 ## Drag N Drop 3D
