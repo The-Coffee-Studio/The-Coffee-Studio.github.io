@@ -11,9 +11,9 @@ Drag N Drop 3D aims to provide unity developer with a simple and easy way to cre
 - Easy to Configure: Distance and target, source list is configurable through the editor
 #### User Guide
 Create a DragNDropConfig game object and then add DragNDropConfig component to the the game object.
-
+![DragNDropConfig](https://user-images.githubusercontent.com/5996087/88127628-57007180-cbfe-11ea-8ac9-bbf6d0cfac98.png)
 Configure DragNDropConfig component
-
+![DragNDropConfig Component](https://user-images.githubusercontent.com/5996087/88127707-87e0a680-cbfe-11ea-9acb-56cb23cbc4ef.png)
 Camera: Specify camera which the destination game object is viewed by. If empty, the main camera is used
 Good distance: The distance between dragging object and destination  in world space which is considered as close enough to drop the item.
 DragNDrops:  A List contains drag and drop detail.
