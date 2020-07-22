@@ -1,3 +1,29 @@
+# About The Coffee House Studio
+
+# Unity Asset Store
+### Drag N Drop 3D
+#### Introduction
+Drag N Drop 3D aims to provide unity developer with a simple and easy way to create a drag and drop functionality from UI-space to a predefined world-space destination in 3D environment. Feature:
+- Configurable Distance:The distance between dragging object and destination  in world space which is considered as close enough to drop the item.
+- Auto Move Back: Move the dragging object back when the distance to target larger than the configured distance
+- Identical Rotation: Dragging object is in 3D and have identical rotation as the destination object while the destination object is rotate.
+- Work When Rotate: Work even when the destination object is rotating.
+- Easy to Configure: Distance and target, source list is configurable through the editor
+#### User Guide
+Create a DragNDropConfig game object and then add DragNDropConfig component to the the game object.
+
+Configure DragNDropConfig component
+
+Camera: Specify camera which the destination game object is viewed by. If empty, the main camera is used
+Good distance: The distance between dragging object and destination  in world space which is considered as close enough to drop the item.
+DragNDrops:  A List contains drag and drop detail.
+Source: Transform in UI which the drag item will start from.
+Destination: Transform in World space which the drag item will end at.
+Moving prefab: Prefab of the item which is shown while item is being dragged.
+
+#### Credit
+Road roller model made by [Poly grunt](https://assetstore.unity.com/publishers/47845) . Get it from [here](https://assetstore.unity.com/packages/3d/vehicles/land/polygrunt-construction-vehicles-168884#content)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
