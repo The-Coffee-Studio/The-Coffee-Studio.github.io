@@ -1,5 +1,5 @@
 # The Coffee Studio
-The coffee studio is a small studio created by a coffee addicter who love to make small things joyful. We are focusing on Unity-based casual games for the past serveral years
+The coffee studio is a small studio created by a coffee addicter who love to make small things joyful. We are focusing on Unity-based casual games for the past serveral years.
 
 
 # Drag N Drop 3D
@@ -33,4 +33,4 @@ Configure DragNDropConfig component
 Road roller model made by [Poly grunt](https://assetstore.unity.com/publishers/47845) . Get it from [here](https://assetstore.unity.com/packages/3d/vehicles/land/polygrunt-construction-vehicles-168884#content)
 
 # Contact
-@icn-envelop the.coffee.std@gmail.com
+Email: the.coffee.std@gmail.com
