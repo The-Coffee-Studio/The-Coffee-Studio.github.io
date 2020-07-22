@@ -5,7 +5,7 @@ The coffee studio is a small studio created by a coffee addicter who love to mak
 # Drag N Drop 3D
 
 ## Introduction
-{% include youtubePlayer.html %}
+{% include youtubeplayer.html %}
 Drag N Drop 3D is an unity asset aims to provide unity developer with a simple and easy way to create a drag and drop functionality from UI-space to a predefined world-space destination in 3D environment. Feature:
 * **Configurable Distance:** The distance between dragging object and destination  in world space which is considered as close enough to drop the item.
 * **Auto Move Back:** Move the dragging object back when the distance to target larger than the configured distance
